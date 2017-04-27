@@ -3997,9 +3997,9 @@ ng2-completer@1.3.1, ng2-completer@^1.2.2:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/ng2-completer/-/ng2-completer-1.3.1.tgz#f75dba1a0b376c2e6b49f73ce2b2d7c29614a555"
 
-ng2-smart-table@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/ng2-smart-table/-/ng2-smart-table-1.0.3.tgz#259f12564044aa87f6a86885fa16fbe6be8c2439"
+ng2-smart-table@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/ng2-smart-table/-/ng2-smart-table-1.1.0.tgz#0e9538d6253346611107b3895d606d6422482ecb"
   dependencies:
     lodash "^4.17.4"
     ng2-completer "^1.2.2"
